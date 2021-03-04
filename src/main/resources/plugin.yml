@@ -2,4 +2,4 @@ name: Diamond
 version: ${project.version}
 main: com.skw359.diamond.Diamond
 api-version: 1.16
-authors: [ Sky_Wizard360 ]
+authors: [ skw359 ]
